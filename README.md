@@ -10,6 +10,7 @@ Single installer for all my Visual Studio Extensions.
 Requires Visual Studio 2017 Update 8 or newer.
 
 ## Extensions
+
 Includes the following extensions:
 
 - [String Resource Visualizer](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.StringResourceVisualizer)
