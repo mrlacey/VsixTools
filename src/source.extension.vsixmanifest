@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
+    <Metadata>
+        <Identity Id="VsixTools.84e57a17-39ef-457d-8130-fdc9d3695709" Version="1.0" Language="en-US" Publisher="Matt Lacey Ltd" />
+        <DisplayName>MRLacey Tools</DisplayName>
+        <Description xml:space="preserve">A collection of tools created by Matt Lacey. Requires Visual Studio 2017 Update 8 or newer.</Description>
+        <MoreInfo>https://github.com/mrlacey/VsixTools</MoreInfo>
+        <License>Resources\LICENSE</License>
+        <ReleaseNotes>https://github.com/mrlacey/VsixTools/blob/master/CHANGELOG.md</ReleaseNotes>
+    </Metadata>
+    <Installation>
+        <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[15.0, 16.0)" />
+    </Installation>
+    <Dependencies>
+    </Dependencies>
+    <Prerequisites>
+        <Prerequisite Id="Microsoft.VisualStudio.Component.CoreEditor" Version="[15.0,16.0)" DisplayName="Visual Studio core editor" />
+    </Prerequisites>
+    <Assets>
+        <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="Project" d:ProjectName="%CurrentProject%" Path="|%CurrentProject%;PkgdefProjectOutputGroup|" />
+    </Assets>
+</PackageManifest>
