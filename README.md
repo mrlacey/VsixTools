@@ -1,6 +1,6 @@
 # Matt Lacey's VSIX Tools
 
-[![Build status](https://ci.appveyor.com/api/projects/status/y63737bx9ebbmqhj?svg=true)](https://ci.appveyor.com/project/mrlacey/uwpessentials)
+[![Build status](https://ci.appveyor.com/api/projects/status/g4i1tq4i3m00l0jh?svg=true)](https://ci.appveyor.com/project/mrlacey/vsixtools)
 
 Download the extension from the [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.UwpEssentials)
 
