@@ -15,6 +15,10 @@
     {
       "vsixId": "CollapseComments.a1dfaad6-6e8d-420a-807b-ebbbc0e7a6bf",
       "name": "Collapse Comments"
+    },
+    {
+      "vsixId": "DemoSnippets.e2d68c23-8599-40e8-b402-a57060bf3d29",
+      "name": "Demo Snippets"
     }
   ]
 }

@@ -16,6 +16,7 @@ Includes the following extensions:
 - [String Resource Visualizer](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.StringResourceVisualizer)
 - [Resource Pseudo Localizer](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.ResourcePseudoLocalizer)
 - [Collapse Comments](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.CollapseComments)
+- [Demo Snippets](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.DemoSnippets)
 
 If you already have one or more of these extensions installed, this will not re-install them.
 
