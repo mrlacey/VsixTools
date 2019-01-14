@@ -1,6 +1,7 @@
 # Matt Lacey's VSIX Tools
 
 [![Build status](https://ci.appveyor.com/api/projects/status/g4i1tq4i3m00l0jh?svg=true)](https://ci.appveyor.com/project/mrlacey/vsixtools)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Download the extension from the [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.VsixTools)
 
