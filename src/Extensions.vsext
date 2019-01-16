@@ -19,6 +19,10 @@
     {
       "vsixId": "DemoSnippets.e2d68c23-8599-40e8-b402-a57060bf3d29",
       "name": "Demo Snippets"
+    },
+    {
+      "vsixId": "WarnAboutTODOs.c50458a5-b99a-484f-be10-f1a8714c1453",
+      "name": "Warn about TODOs"
     }
   ]
 }

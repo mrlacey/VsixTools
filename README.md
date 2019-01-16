@@ -18,8 +18,9 @@ Includes the following extensions:
 - [Resource Pseudo Localizer](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.ResourcePseudoLocalizer)
 - [Collapse Comments](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.CollapseComments)
 - [Demo Snippets](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.DemoSnippets)
+- [Warn about TODOs](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.WarnAboutTODOs)
 
-If you already have one or more of these extensions installed, this will not re-install them.
+If you already have one or more of these extensions installed, this will not re-install them, only add the others.
 
 ## See Also
 
