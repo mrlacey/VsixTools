@@ -7,6 +7,14 @@
 These are the changes to each version that has been released
 on the official Visual Studio extension gallery.
 
+## 1.5
+
+- [x] WaterMark
+
+## 1.4
+
+- [x] Support VS2019
+
 ## 1.3
 
 - [x] Warn about TODOs

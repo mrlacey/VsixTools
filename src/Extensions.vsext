@@ -23,6 +23,10 @@
     {
       "vsixId": "WarnAboutTODOs.c50458a5-b99a-484f-be10-f1a8714c1453",
       "name": "Warn about TODOs"
+    },
+    {
+      "vsixId": "VSWaterMark.ba592631-4321-4937-83fa-cfe42d40f0c8",
+      "name": "WaterMark"
     }
   ]
 }
