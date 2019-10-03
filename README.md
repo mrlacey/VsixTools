@@ -20,6 +20,10 @@ Includes the following extensions:
 - [Demo Snippets](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.DemoSnippets)
 - [Warn about TODOs](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.WarnAboutTODOs)
 - [WaterMark](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.WaterMark)
+- [Sign VSIX](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.SignVsix)
+- [Always Use](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.AlwaysUse)
+- [MVVMBasic Snippets](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.MvvmBasicSnippets)
+
 
 If you already have one or more of these extensions installed, this will not re-install them, only add the others.
 

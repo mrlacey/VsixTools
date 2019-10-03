@@ -2,7 +2,7 @@
   "id": "MRLaceyTools",
   "name": "MRLacey Tools",
   "description": "A collection of Visual Studio extensions created by Matt Lacey.",
-  "version": "1.1.0.0",
+  "version": "1.6.0.0",
   "extensions": [
     {
       "vsixId": "StringResourceVisualizer.a05f89b1-98f8-4b37-8f84-4fdebc44aa25",
@@ -27,6 +27,18 @@
     {
       "vsixId": "VSWaterMark.ba592631-4321-4937-83fa-cfe42d40f0c8",
       "name": "WaterMark"
+    },
+    {
+      "vsixId": "MVVMBasicSnippets.79e3f0e5-9be3-476f-8f73-86fc92f6e751",
+      "name": "MVVMBasic Snippets"
+    },
+    {
+      "vsixId": "SignVsix.0f28e1e5-5a3e-4328-90e5-982827292d84",
+      "name": "Sign VSIX"
+    },
+    {
+      "vsixId": "AlwaysUse.60017ef2-d0e3-4d09-b5c6-abd02f2f49c7",
+      "name": "AlwaysUse"
     }
   ]
 }
