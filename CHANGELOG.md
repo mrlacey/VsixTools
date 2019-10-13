@@ -7,6 +7,12 @@
 These are the changes to each version that has been released
 on the official Visual Studio extension gallery.
 
+## 1.7
+
+- [x] Show Keys
+- [x] Get Live XAML Info
+- [x] Show Selection
+
 ## 1.6
 
 - [x] Sign VSIX

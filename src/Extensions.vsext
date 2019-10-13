@@ -39,6 +39,18 @@
     {
       "vsixId": "AlwaysUse.60017ef2-d0e3-4d09-b5c6-abd02f2f49c7",
       "name": "AlwaysUse"
+    },
+    {
+      "vsixId": "ShowKeys.ab91604c-e94a-498a-93fd-752dcc712b91",
+      "name": "ShowKeys"
+    },
+    {
+      "vsixId": "GetLiveXamlInfo.743f1a34-0085-458e-8c74-5f10b7b10551",
+      "name": "Get Live XAML Info"
+    },
+    {
+      "vsixId": "ShowSelection.b3997430-38c4-465a-a802-72213d745cac",
+      "name": "ShowSelection"
     }
   ]
 }

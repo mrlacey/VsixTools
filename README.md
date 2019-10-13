@@ -23,11 +23,13 @@ Includes the following extensions:
 - [Sign VSIX](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.SignVsix)
 - [Always Use](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.AlwaysUse)
 - [MVVMBasic Snippets](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.MvvmBasicSnippets)
-
+- [Show Keys](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.ShowKeys)
+- [Get Live XAML Info](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.GetLiveXamlInfo)
+- [Show Selection](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.ShowSelection)
 
 If you already have one or more of these extensions installed, this will not re-install them, only add the others.
 
 ## See Also
 
 - [UWP Essentials](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.UwpEssentials)
-
+- [Rapid XAML (Preview)](](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.RapidXamlPreview))
