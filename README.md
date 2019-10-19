@@ -26,6 +26,7 @@ Includes the following extensions:
 - [Show Keys](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.ShowKeys)
 - [Get Live XAML Info](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.GetLiveXamlInfo)
 - [Show Selection](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.ShowSelection)
+- [Error Helper](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.ErrorHelper)
 
 If you already have one or more of these extensions installed, this will not re-install them, only add the others.
 

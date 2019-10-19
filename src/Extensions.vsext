@@ -51,6 +51,10 @@
     {
       "vsixId": "ShowSelection.b3997430-38c4-465a-a802-72213d745cac",
       "name": "ShowSelection"
+    },
+    {
+      "vsixId": "ErrorHelper.e90a7159-7bf3-45f6-b3d5-e80fd5978133",
+      "name": "Error Helper"
     }
   ]
 }
