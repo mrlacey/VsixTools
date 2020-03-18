@@ -27,6 +27,7 @@ Includes the following extensions:
 - [Get Live XAML Info](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.GetLiveXamlInfo)
 - [Show Selection](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.ShowSelection)
 - [Error Helper](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.ErrorHelper)
+- [Clearly Ediatble](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.ClearlyEditable)
 
 If you already have one or more of these extensions installed, this will not re-install them, only add the others.
 

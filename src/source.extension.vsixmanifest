@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="VsixTools.84e57a17-39ef-457d-8130-fdc9d3695709" Version="1.8" Language="en-US" Publisher="Matt Lacey" />
+        <Identity Id="VsixTools.84e57a17-39ef-457d-8130-fdc9d3695709" Version="1.9" Language="en-US" Publisher="Matt Lacey" />
         <DisplayName>MRLacey Tools</DisplayName>
         <Description xml:space="preserve">A collection of tools created by Matt Lacey. Requires Visual Studio 2017 Update 8 or newer.</Description>
         <MoreInfo>https://github.com/mrlacey/VsixTools</MoreInfo>

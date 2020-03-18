@@ -2,7 +2,7 @@
   "id": "MRLaceyTools",
   "name": "MRLacey Tools",
   "description": "A collection of Visual Studio extensions created by Matt Lacey.",
-  "version": "1.6.0.0",
+  "version": "1.9.0.0",
   "extensions": [
     {
       "vsixId": "StringResourceVisualizer.a05f89b1-98f8-4b37-8f84-4fdebc44aa25",
@@ -53,8 +53,12 @@
       "name": "ShowSelection"
     },
     {
-      "vsixId": "ErrorHelper.e90a7159-7bf3-45f6-b3d5-e80fd5978133",
-      "name": "Error Helper"
+        "vsixId": "ErrorHelper.e90a7159-7bf3-45f6-b3d5-e80fd5978133",
+        "name": "Error Helper"
+    },
+    {
+        "vsixId": "ClearlyEditable.d69d322e-f85a-47be-ac01-3d8f823db795",
+        "name": "Clearly Editable"
     }
   ]
 }

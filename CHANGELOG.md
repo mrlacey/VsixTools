@@ -7,6 +7,10 @@
 These are the changes to each version that has been released
 on the official Visual Studio extension gallery.
 
+## 1.9
+
+- [x] Clearly Editable
+
 ## 1.8
 
 - [x] Error Helper
