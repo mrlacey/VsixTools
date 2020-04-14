@@ -7,6 +7,14 @@
 These are the changes to each version that has been released
 on the official Visual Studio extension gallery.
 
+## 1.11
+
+- [x] Const Visualizer
+
+## 1.10
+
+- [x] Comment Links
+
 ## 1.9
 
 - [x] Clearly Editable

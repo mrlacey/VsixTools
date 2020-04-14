@@ -3,62 +3,70 @@
   "name": "MRLacey Tools",
   "description": "A collection of Visual Studio extensions created by Matt Lacey.",
   "version": "1.9.0.0",
-  "extensions": [
-    {
-      "vsixId": "StringResourceVisualizer.a05f89b1-98f8-4b37-8f84-4fdebc44aa25",
-      "name": "String Resource Visualizer"
-    },
-    {
-      "vsixId": "ResPsuedoLoc.fb9c5e68-fb3b-44f4-9412-717109dc3ba9",
-      "name": "Resource Pseudo Localizer"
-    },
-    {
-      "vsixId": "CollapseComments.a1dfaad6-6e8d-420a-807b-ebbbc0e7a6bf",
-      "name": "Collapse Comments"
-    },
-    {
-      "vsixId": "DemoSnippets.e2d68c23-8599-40e8-b402-a57060bf3d29",
-      "name": "Demo Snippets"
-    },
-    {
-      "vsixId": "WarnAboutTODOs.c50458a5-b99a-484f-be10-f1a8714c1453",
-      "name": "Warn about TODOs"
-    },
-    {
-      "vsixId": "VSWaterMark.ba592631-4321-4937-83fa-cfe42d40f0c8",
-      "name": "WaterMark"
-    },
-    {
-      "vsixId": "MVVMBasicSnippets.79e3f0e5-9be3-476f-8f73-86fc92f6e751",
-      "name": "MVVMBasic Snippets"
-    },
-    {
-      "vsixId": "SignVsix.0f28e1e5-5a3e-4328-90e5-982827292d84",
-      "name": "Sign VSIX"
-    },
-    {
-      "vsixId": "AlwaysUse.60017ef2-d0e3-4d09-b5c6-abd02f2f49c7",
-      "name": "AlwaysUse"
-    },
-    {
-      "vsixId": "ShowKeys.ab91604c-e94a-498a-93fd-752dcc712b91",
-      "name": "ShowKeys"
-    },
-    {
-      "vsixId": "GetLiveXamlInfo.743f1a34-0085-458e-8c74-5f10b7b10551",
-      "name": "Get Live XAML Info"
-    },
-    {
-      "vsixId": "ShowSelection.b3997430-38c4-465a-a802-72213d745cac",
-      "name": "ShowSelection"
-    },
-    {
-        "vsixId": "ErrorHelper.e90a7159-7bf3-45f6-b3d5-e80fd5978133",
-        "name": "Error Helper"
-    },
-    {
-        "vsixId": "ClearlyEditable.d69d322e-f85a-47be-ac01-3d8f823db795",
-        "name": "Clearly Editable"
-    }
-  ]
+    "extensions": [
+        {
+            "vsixId": "StringResourceVisualizer.a05f89b1-98f8-4b37-8f84-4fdebc44aa25",
+            "name": "String Resource Visualizer"
+        },
+        {
+            "vsixId": "ResPsuedoLoc.fb9c5e68-fb3b-44f4-9412-717109dc3ba9",
+            "name": "Resource Pseudo Localizer"
+        },
+        {
+            "vsixId": "CollapseComments.a1dfaad6-6e8d-420a-807b-ebbbc0e7a6bf",
+            "name": "Collapse Comments"
+        },
+        {
+            "vsixId": "DemoSnippets.e2d68c23-8599-40e8-b402-a57060bf3d29",
+            "name": "Demo Snippets"
+        },
+        {
+            "vsixId": "WarnAboutTODOs.c50458a5-b99a-484f-be10-f1a8714c1453",
+            "name": "Warn about TODOs"
+        },
+        {
+            "vsixId": "VSWaterMark.ba592631-4321-4937-83fa-cfe42d40f0c8",
+            "name": "WaterMark"
+        },
+        {
+            "vsixId": "MVVMBasicSnippets.79e3f0e5-9be3-476f-8f73-86fc92f6e751",
+            "name": "MVVMBasic Snippets"
+        },
+        {
+            "vsixId": "SignVsix.0f28e1e5-5a3e-4328-90e5-982827292d84",
+            "name": "Sign VSIX"
+        },
+        {
+            "vsixId": "AlwaysUse.60017ef2-d0e3-4d09-b5c6-abd02f2f49c7",
+            "name": "AlwaysUse"
+        },
+        {
+            "vsixId": "ShowKeys.ab91604c-e94a-498a-93fd-752dcc712b91",
+            "name": "ShowKeys"
+        },
+        {
+            "vsixId": "GetLiveXamlInfo.743f1a34-0085-458e-8c74-5f10b7b10551",
+            "name": "Get Live XAML Info"
+        },
+        {
+            "vsixId": "ShowSelection.b3997430-38c4-465a-a802-72213d745cac",
+            "name": "ShowSelection"
+        },
+        {
+            "vsixId": "ErrorHelper.e90a7159-7bf3-45f6-b3d5-e80fd5978133",
+            "name": "Error Helper"
+        },
+        {
+            "vsixId": "ClearlyEditable.d69d322e-f85a-47be-ac01-3d8f823db795",
+            "name": "Clearly Editable"
+        },
+        {
+            "vsixId": "CommentLinks.bd536c05-2af9-4995-b067-56fa2bb88e31",
+            "name": "Comment Links"
+        },
+        {
+            "vsixId": "ConstVisualizer.5bee6ae1-47a5-4255-897f-45f43d47b2be",
+            "name": "Const Visualizer"
+        }
+    ]
 }
