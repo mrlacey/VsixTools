@@ -71,6 +71,10 @@
         {
             "vsixId": "DontCopyAlways.d38e1a6d-0c1c-4aab-bf12-2cc84406b005",
             "name": "Don't Copy Always"
+        },
+        {
+            "vsixId": "SolutionExplorerDiff.f27c696f-c81f-44fb-ae0f-4fdaf6fb9d45",
+            "name": "Solution File Diff"
         }
     ]
 }
