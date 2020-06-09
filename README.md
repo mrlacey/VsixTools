@@ -30,6 +30,7 @@ Includes the following extensions:
 - [Clearly Ediatble](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.ClearlyEditable)
 - [Comment Links](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.CommentLinks)
 - [Const Visualizer](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.ConstVisualizer)
+- [Don't Copy Always](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.DontCopyAlways)
 
 If you already have one or more of these extensions installed, this will not re-install them, only add the others.
 

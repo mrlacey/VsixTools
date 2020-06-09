@@ -67,6 +67,10 @@
         {
             "vsixId": "ConstVisualizer.5bee6ae1-47a5-4255-897f-45f43d47b2be",
             "name": "Const Visualizer"
+        },
+        {
+            "vsixId": "DontCopyAlways.d38e1a6d-0c1c-4aab-bf12-2cc84406b005",
+            "name": "Don't Copy Always"
         }
     ]
 }
