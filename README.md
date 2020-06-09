@@ -36,4 +36,4 @@ If you already have one or more of these extensions installed, this will not re-
 ## See Also
 
 - [UWP Essentials](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.UwpEssentials)
-- [Rapid XAML (Preview)](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.RapidXamlPreview)
+- [Rapid XAML Toolkit](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.RapidXamlToolkit)
