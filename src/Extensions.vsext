@@ -75,6 +75,10 @@
         {
             "vsixId": "SolutionExplorerDiff.f27c696f-c81f-44fb-ae0f-4fdaf6fb9d45",
             "name": "Solution File Diff"
+        },
+        {
+            "vsixId": "VSConsole.5e9c6d51-cff5-4583-badd-b5033a9d6482",
+            "name": "VSConsole"
         }
     ]
 }

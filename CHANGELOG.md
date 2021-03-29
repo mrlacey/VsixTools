@@ -7,7 +7,11 @@
 These are the changes to each version that has been released
 on the official Visual Studio extension gallery.
 
-## 1.13 
+## 1.14
+
+- [x] VSConsole
+
+## 1.13
 
 - [x] Solution File Diff
 

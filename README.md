@@ -32,10 +32,12 @@ Includes the following extensions:
 - [Const Visualizer](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.ConstVisualizer)
 - [Don't Copy Always](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.DontCopyAlways)
 - [Solution File Diff](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.SlnFileDiff)
+- [VSConsole](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.VSConsole)
 
 If you already have one or more of these extensions installed, this will not re-install them, only add the others.
 
 ## See Also
 
-- [UWP Essentials](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.UwpEssentials)
 - [Rapid XAML Toolkit](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.RapidXamlToolkit)
+- [UWP Essentials](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.UwpEssentials)
+- [WinUI Essentials](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.WinUI-Essentials)
