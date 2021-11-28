@@ -1,16 +1,20 @@
 {
-    "id": "MRLaceyTools",
-    "name": "MRLacey Tools",
-    "description": "A collection of Visual Studio extensions created by Matt Lacey.",
-    "version": "1.0.0.0",
-    "extensions": [
-        {
-            "vsixId": "ErrorHelper.e90a7159-7bf3-45f6-b3d5-e80fd5978133",
-            "name": "Error Helper"
-        },
-        {
-            "vsixId": "WarnAboutTODOs.c50458a5-b99a-484f-be10-f1a8714c1453",
-            "name": "Warn about TODOs"
-        }
-    ]
+  "id": "MRLaceyTools",
+  "name": "MRLacey Tools",
+  "description": "A collection of Visual Studio extensions created by Matt Lacey.",
+  "version": "1.0.0.0",
+  "extensions": [
+    {
+      "vsixId": "ErrorHelper.e90a7159-7bf3-45f6-b3d5-e80fd5978133",
+      "name": "Error Helper"
+    },
+    {
+      "vsixId": "WarnAboutTODOs.c50458a5-b99a-484f-be10-f1a8714c1453",
+      "name": "Warn about TODOs"
+    },
+    {
+      "vsixId": "VSWaterMark.ba592631-4321-4937-83fa-cfe42d40f0c8",
+      "name": "Water Mark"
+    }
+  ]
 }

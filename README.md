@@ -20,7 +20,7 @@ Includes the following extensions:
 - [Collapse Comments](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.CollapseComments)
 - [Demo Snippets](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.DemoSnippets)
 - [Warn about TODOs](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.WarnAboutTODOs)
-- [WaterMark](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.WaterMark)
+- [WaterMark](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.VSWaterMark2019)
 - [Sign VSIX](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.SignVsix)
 - [Always Use](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.AlwaysUse)
 - [MVVMBasic Snippets](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.MvvmBasicSnippets)
@@ -42,6 +42,7 @@ Includes the following extensions:
 
 - [Warn about TODOs](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.WarnAboutTODOs)
 - [Error Helper](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.ErrorHelper)
+- [WaterMark](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.WaterMark)
 
 
 If you already have one or more of these extensions installed, this will not re-install them, only add the others.
