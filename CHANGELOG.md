@@ -7,6 +7,11 @@
 These are the changes to each version that has been released
 on the official Visual Studio extension gallery.
 
+## 1.19
+
+- [x] Update String Resource Visualizer to 2019 & 2022 versions
+- [x] Remove Always Use
+
 ## 1.18
 
 - [x] Update ClearlyEditable to 2019 & 2022 versions

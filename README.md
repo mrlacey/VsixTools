@@ -15,14 +15,13 @@ Single installer for all my Visual Studio Extensions.
 
 Includes the following extensions:
 
-- [String Resource Visualizer](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.StringResourceVisualizer)
+- [String Resource Visualizer (2019)](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.StringResourceVisualizer2019)
 - [Resource Pseudo Localizer](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.ResourcePseudoLocalizer)
 - [Collapse Comments](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.CollapseComments)
 - [Demo Snippets](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.DemoSnippets)
 - [Warn about TODOs](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.WarnAboutTODOs)
-- [WaterMark](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.VSWaterMark2019)
+- [WaterMark (2019)](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.VSWaterMark2019)
 - [Sign VSIX](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.SignVsix)
-- [Always Use](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.AlwaysUse)
 - [MVVMBasic Snippets](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.MvvmBasicSnippets)
 - [Show Keys](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.ShowKeys)
 - [Show Selection](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.ShowSelection)
@@ -43,6 +42,7 @@ Includes the following extensions:
 - [Error Helper](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.ErrorHelper)
 - [WaterMark](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.WaterMark)
 - [Clearly Editable](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.ClearlyEditable)
+- [String Resource Visualizer](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.StringResourceVisualizer)
 
 
 If you already have one or more of these extensions installed, this will not re-install them, only add the others.

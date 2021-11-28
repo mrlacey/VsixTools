@@ -5,8 +5,8 @@
   "version": "1.9.0.0",
   "extensions": [
     {
-      "vsixId": "StringResourceVisualizer.a05f89b1-98f8-4b37-8f84-4fdebc44aa25",
-      "name": "String Resource Visualizer"
+      "vsixId": "StringResourceVisualizer2019.a05f79b1-98f8-4b27-8f84-4fdebc43aa25",
+      "name": "String Resource Visualizer (2019)"
     },
     {
       "vsixId": "ResPsuedoLoc.fb9c5e68-fb3b-44f4-9412-717109dc3ba9",
@@ -35,10 +35,6 @@
     {
       "vsixId": "SignVsix.0f28e1e5-5a3e-4328-90e5-982827292d84",
       "name": "Sign VSIX"
-    },
-    {
-      "vsixId": "AlwaysUse.60017ef2-d0e3-4d09-b5c6-abd02f2f49c7",
-      "name": "AlwaysUse"
     },
     {
       "vsixId": "ShowKeys.ab91604c-e94a-498a-93fd-752dcc712b91",

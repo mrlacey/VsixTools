@@ -5,6 +5,10 @@
   "version": "1.0.0.0",
   "extensions": [
     {
+      "vsixId": "StringResourceVisualizer.a05f89b1-98f8-4b37-8f84-4fdebc44aa25",
+      "name": "String Resource Visualizer"
+    },
+    {
       "vsixId": "ErrorHelper.e90a7159-7bf3-45f6-b3d5-e80fd5978133",
       "name": "Error Helper"
     },
@@ -15,6 +19,10 @@
     {
       "vsixId": "VSWaterMark.ba592631-4321-4937-83fa-cfe42d40f0c8",
       "name": "Water Mark"
+    },
+    {
+      "vsixId": "ClearlyEditable.d69d322e-f85a-47be-ac01-3d8f823db795",
+      "name": "Clearly Editable"
     }
   ]
 }
