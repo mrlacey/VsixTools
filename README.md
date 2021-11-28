@@ -25,7 +25,6 @@ Includes the following extensions:
 - [Always Use](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.AlwaysUse)
 - [MVVMBasic Snippets](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.MvvmBasicSnippets)
 - [Show Keys](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.ShowKeys)
-- [Get Live XAML Info](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.GetLiveXamlInfo)
 - [Show Selection](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.ShowSelection)
 - [Error Helper (2019)](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.ErrorHelper2019)
 - [Clearly Ediatble](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.ClearlyEditable)

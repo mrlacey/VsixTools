@@ -26,7 +26,7 @@
     },
     {
       "vsixId": "VSWaterMark2019.ba592631-4321-4937-83fa-cfe42d40f0d7",
-      "name": "WaterMark"
+      "name": "WaterMark (2019)"
     },
     {
       "vsixId": "MVVMBasicSnippets.79e3f0e5-9be3-476f-8f73-86fc92f6e751",
@@ -43,10 +43,6 @@
     {
       "vsixId": "ShowKeys.ab91604c-e94a-498a-93fd-752dcc712b91",
       "name": "ShowKeys"
-    },
-    {
-      "vsixId": "GetLiveXamlInfo.743f1a34-0085-458e-8c74-5f10b7b10551",
-      "name": "Get Live XAML Info"
     },
     {
       "vsixId": "ShowSelection.b3997430-38c4-465a-a802-72213d745cac",
