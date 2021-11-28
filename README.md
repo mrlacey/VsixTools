@@ -27,7 +27,7 @@ Includes the following extensions:
 - [Show Keys](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.ShowKeys)
 - [Show Selection](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.ShowSelection)
 - [Error Helper (2019)](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.ErrorHelper2019)
-- [Clearly Ediatble](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.ClearlyEditable)
+- [Clearly Editable (2019)](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.ClearlyEditable2019)
 - [Comment Links](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.CommentLinks)
 - [Const Visualizer](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.ConstVisualizer)
 - [Don't Copy Always](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.DontCopyAlways)
@@ -42,6 +42,7 @@ Includes the following extensions:
 - [Warn about TODOs](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.WarnAboutTODOs)
 - [Error Helper](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.ErrorHelper)
 - [WaterMark](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.WaterMark)
+- [Clearly Editable](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.ClearlyEditable)
 
 
 If you already have one or more of these extensions installed, this will not re-install them, only add the others.

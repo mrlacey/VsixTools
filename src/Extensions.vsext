@@ -53,8 +53,8 @@
       "name": "Error Helper (2019)"
     },
     {
-      "vsixId": "ClearlyEditable.d69d322e-f85a-47be-ac01-3d8f823db795",
-      "name": "Clearly Editable"
+      "vsixId": "ClearlyEditable2019.d69d322e-f85a-47be-ac01-3d7f823db295",
+      "name": "Clearly Editable (2019)"
     },
     {
       "vsixId": "CommentLinks.bd536c05-2af9-4995-b067-56fa2bb88e31",
@@ -75,6 +75,10 @@
     {
       "vsixId": "VSConsole.5e9c6d51-cff5-4583-badd-b5033a9d6482",
       "name": "VSConsole"
+    },
+    {
+      "vsixId": "ClearlyEditable.d69d322e-f85a-47be-ac01-3d8f823db795",
+      "name": "Clearly Editable"
     }
   ]
 }

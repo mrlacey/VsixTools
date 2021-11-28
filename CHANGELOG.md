@@ -1,23 +1,27 @@
 # Road map
 
-- Nothing right now
+- Plans to port most VS2019 extensions to VS2022
 
 # Change log
 
 These are the changes to each version that has been released
 on the official Visual Studio extension gallery.
 
+## 1.18
+
+- [x] Update ClearlyEditable to 2019 & 2022 versions
+
 ## 1.17
 
-- Remove 'Get Live XAML Info'
+- [x] Remove 'Get Live XAML Info'
 
 ## 1.16
 
-- Update Watermark to 2019 & 2022 versions
+- [x] Update Watermark to 2019 & 2022 versions
 
 ## 1.15
 
-- Update ErrorHelper to 2019 version
+- [x] Update ErrorHelper to 2019 version
 
 ## 1.14
 
