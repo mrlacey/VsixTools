@@ -7,6 +7,10 @@
 These are the changes to each version that has been released
 on the official Visual Studio extension gallery.
 
+## 1.20
+
+- [x] Update Collapse Comments to 2019 & 2022 versions
+
 ## 1.19
 
 - [x] Update String Resource Visualizer to 2019 & 2022 versions

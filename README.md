@@ -17,7 +17,7 @@ Includes the following extensions:
 
 - [String Resource Visualizer (2019)](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.StringResourceVisualizer2019)
 - [Resource Pseudo Localizer](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.ResourcePseudoLocalizer)
-- [Collapse Comments](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.CollapseComments)
+- [Collapse Comments (2019)](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.CollapseComments2019)
 - [Demo Snippets](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.DemoSnippets)
 - [Warn about TODOs](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.WarnAboutTODOs)
 - [WaterMark (2019)](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.VSWaterMark2019)
@@ -43,6 +43,7 @@ Includes the following extensions:
 - [WaterMark](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.WaterMark)
 - [Clearly Editable](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.ClearlyEditable)
 - [String Resource Visualizer](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.StringResourceVisualizer)
+- [Collapse Comments](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.CollapseComments)
 
 
 If you already have one or more of these extensions installed, this will not re-install them, only add the others.
