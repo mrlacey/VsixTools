@@ -4,7 +4,7 @@ using Microsoft.VisualStudio.Shell;
 namespace VsixTools
 {
     [PackageRegistration(UseManagedResourcesOnly = true, AllowsBackgroundLoading = true)]
-    [InstalledProductRegistration("#110", "#112", "1.20")] // Info on this package for Help/About
+    [InstalledProductRegistration("#110", "#112", "1.21")] // Info on this package for Help/About
     [Guid(VSPackage.PackageGuidString)]
     public sealed class VSPackage : AsyncPackage
     {

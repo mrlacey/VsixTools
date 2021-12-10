@@ -2,7 +2,7 @@
   "id": "MRLaceyTools",
   "name": "MRLacey Tools",
   "description": "A collection of Visual Studio extensions created by Matt Lacey.",
-  "version": "1.20.0.0",
+  "version": "1.21.0.0",
   "extensions": [
     {
       "vsixId": "StringResourceVisualizer.a05f89b1-98f8-4b37-8f84-4fdebc44aa25",
@@ -27,6 +27,10 @@
     {
       "vsixId": "CollapseComments.a1dfaad6-6e8d-420a-807b-ebbbc0e7a6bf",
       "name": "Collapse Comments"
+    },
+    {
+      "vsixId": "ConstVisualizer.5bee6ae1-47a5-4255-897f-45f43d47b2be",
+      "name": "Const Visualizer"
     }
   ]
 }
