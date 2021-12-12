@@ -27,7 +27,7 @@ Includes the following extensions:
 - [Show Selection](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.ShowSelection)
 - [Error Helper (2019)](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.ErrorHelper2019)
 - [Clearly Editable (2019)](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.ClearlyEditable2019)
-- [Comment Links](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.CommentLinks)
+- [Comment Links (2019)](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.CommentLinks2019)
 - [Const Visualizer (2019)](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.ConstVisualizer2019)
 - [Don't Copy Always](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.DontCopyAlways)
 - [Solution File Diff](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.SlnFileDiff)
@@ -45,6 +45,7 @@ Includes the following extensions:
 - [String Resource Visualizer](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.StringResourceVisualizer)
 - [Collapse Comments](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.CollapseComments)
 - [Const Visualizer](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.ConstVisualizer)
+- [Comment Links](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.CommentLinks)
 
 
 If you already have one or more of these extensions installed, this will not re-install them, only add the others.
