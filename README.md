@@ -29,7 +29,7 @@ Includes the following extensions:
 - [Clearly Editable (2019)](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.ClearlyEditable2019)
 - [Comment Links (2019)](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.CommentLinks2019)
 - [Const Visualizer (2019)](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.ConstVisualizer2019)
-- [Don't Copy Always](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.DontCopyAlways)
+- [Don't Copy Always (2019)](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.DontCopyAlways2019)
 - [Solution File Diff](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.SlnFileDiff)
 - [VSConsole](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.VSConsole)
 
@@ -46,6 +46,7 @@ Includes the following extensions:
 - [Collapse Comments](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.CollapseComments)
 - [Const Visualizer](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.ConstVisualizer)
 - [Comment Links](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.CommentLinks)
+- [Don't Copy Always](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.DontCopyAlways)
 
 
 If you already have one or more of these extensions installed, this will not re-install them, only add the others.

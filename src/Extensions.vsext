@@ -2,7 +2,7 @@
   "id": "MRLaceyTools",
   "name": "MRLacey Tools",
   "description": "A collection of Visual Studio extensions created by Matt Lacey.",
-  "version": "1.21.0.0",
+  "version": "1.23.0.0",
   "extensions": [
     {
       "vsixId": "StringResourceVisualizer2019.a05f79b1-98f8-4b27-8f84-4fdebc43aa25",
@@ -61,8 +61,8 @@
       "name": "Const Visualizer (2019)"
     },
     {
-      "vsixId": "DontCopyAlways.d38e1a6d-0c1c-4aab-bf12-2cc84406b005",
-      "name": "Don't Copy Always"
+      "vsixId": "DontCopyAlways2019.d38e1a6d-0c1c-4aab-bf12-2cc84406b005",
+      "name": "Don't Copy Always (2019)"
     },
     {
       "vsixId": "SolutionExplorerDiff.f27c696f-c81f-44fb-ae0f-4fdaf6fb9d45",

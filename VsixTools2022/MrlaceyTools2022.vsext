@@ -2,7 +2,7 @@
   "id": "MRLaceyTools",
   "name": "MRLacey Tools",
   "description": "A collection of Visual Studio extensions created by Matt Lacey.",
-  "version": "1.22.0.0",
+  "version": "1.23.0.0",
   "extensions": [
     {
       "vsixId": "StringResourceVisualizer.a05f89b1-98f8-4b37-8f84-4fdebc44aa25",
@@ -35,6 +35,10 @@
     {
       "vsixId": "CommentLinks.bd536c05-2af9-4995-b067-56fa2bb88e31",
       "name": "Comment Links"
+    },
+    {
+      "vsixId": "DontCopyAlways.d38e1a6d-0c1c-4aab-bf12-2cc84406b005",
+      "name": "Don't Copy Always"
     }
   ]
 }
