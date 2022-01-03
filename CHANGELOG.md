@@ -7,6 +7,10 @@
 These are the changes to each version that has been released
 on the official Visual Studio extension gallery.
 
+## 1.24
+
+- [x] Update Resource Pseudo Localizer to 2019 & 2022 versions
+
 ## 1.23
 
 - [x] Update Don't Copy Always to 2019 & 2022 versions

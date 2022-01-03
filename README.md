@@ -16,7 +16,7 @@ Single installer for all my Visual Studio Extensions.
 Includes the following extensions:
 
 - [String Resource Visualizer (2019)](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.StringResourceVisualizer2019)
-- [Resource Pseudo Localizer](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.ResourcePseudoLocalizer)
+- [Resource Pseudo Localizer (2019)](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.ResourcePseudoLocalizer2019)
 - [Collapse Comments (2019)](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.CollapseComments2019)
 - [Demo Snippets](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.DemoSnippets)
 - [Warn about TODOs](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.WarnAboutTODOs)
@@ -47,6 +47,7 @@ Includes the following extensions:
 - [Const Visualizer](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.ConstVisualizer)
 - [Comment Links](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.CommentLinks)
 - [Don't Copy Always](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.DontCopyAlways)
+- [Resource Pseudo Localizer](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.ResourcePseudoLocalizer)
 
 
 If you already have one or more of these extensions installed, this will not re-install them, only add the others.

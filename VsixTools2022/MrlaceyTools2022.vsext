@@ -39,6 +39,10 @@
     {
       "vsixId": "DontCopyAlways.d38e1a6d-0c1c-4aab-bf12-2cc84406b005",
       "name": "Don't Copy Always"
+    },
+    {
+      "vsixId": "ResPsuedoLoc.fb9c5e68-fb3b-44f4-9412-717109dc3ba9",
+      "name": "Resource Pseudo Localizer"
     }
   ]
 }
