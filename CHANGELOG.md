@@ -9,6 +9,11 @@ on the official Visual Studio extension gallery.
 
 ## 1.24
 
+- [x] Update DemoSnippets to 2019 & 2022 versions
+- [x] Include MVVMBasicSnippets in 2022 pack
+
+## 1.24
+
 - [x] Update Resource Pseudo Localizer to 2019 & 2022 versions
 
 ## 1.23

@@ -2,7 +2,7 @@
   "id": "MRLaceyTools",
   "name": "MRLacey Tools",
   "description": "A collection of Visual Studio extensions created by Matt Lacey.",
-  "version": "1.23.0.0",
+  "version": "1.25.0.0",
   "extensions": [
     {
       "vsixId": "StringResourceVisualizer.a05f89b1-98f8-4b37-8f84-4fdebc44aa25",
@@ -43,6 +43,14 @@
     {
       "vsixId": "ResPsuedoLoc.fb9c5e68-fb3b-44f4-9412-717109dc3ba9",
       "name": "Resource Pseudo Localizer"
+    },
+    {
+      "vsixId": "MVVMBasicSnippets.79e3f0e5-9be3-476f-8f73-86fc92f6e751",
+      "name": "MVVMBasic Snippets"
+    },
+    {
+      "vsixId": "DemoSnippets.e2d68c23-8599-40e8-b402-a57060bf3d29",
+      "name": "Demo Snippets"
     }
   ]
 }

@@ -17,8 +17,8 @@
       "name": "Collapse Comments (2019)"
     },
     {
-      "vsixId": "DemoSnippets.e2d68c23-8599-40e8-b402-a57060bf3d29",
-      "name": "Demo Snippets"
+      "vsixId": "DemoSnippets2019.e2d68c23-8599-40e8-b402-a57060bf3d29",
+      "name": "Demo Snippets (2019)"
     },
     {
       "vsixId": "WarnAboutTODOs.c50458a5-b99a-484f-be10-f1a8714c1453",
@@ -71,10 +71,6 @@
     {
       "vsixId": "VSConsole.5e9c6d51-cff5-4583-badd-b5033a9d6482",
       "name": "VSConsole"
-    },
-    {
-      "vsixId": "ClearlyEditable.d69d322e-f85a-47be-ac01-3d8f823db795",
-      "name": "Clearly Editable"
     }
   ]
 }

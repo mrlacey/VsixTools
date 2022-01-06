@@ -18,7 +18,7 @@ Includes the following extensions:
 - [String Resource Visualizer (2019)](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.StringResourceVisualizer2019)
 - [Resource Pseudo Localizer (2019)](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.ResourcePseudoLocalizer2019)
 - [Collapse Comments (2019)](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.CollapseComments2019)
-- [Demo Snippets](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.DemoSnippets)
+- [Demo Snippets (2019)](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.DemoSnippets2019)
 - [Warn about TODOs](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.WarnAboutTODOs)
 - [WaterMark (2019)](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.VSWaterMark2019)
 - [Sign VSIX](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.SignVsix)
@@ -48,6 +48,8 @@ Includes the following extensions:
 - [Comment Links](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.CommentLinks)
 - [Don't Copy Always](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.DontCopyAlways)
 - [Resource Pseudo Localizer](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.ResourcePseudoLocalizer)
+- [MVVMBasic Snippets](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.MvvmBasicSnippets)
+- [Demo Snippets](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.DemoSnippets)
 
 
 If you already have one or more of these extensions installed, this will not re-install them, only add the others.
