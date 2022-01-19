@@ -51,6 +51,10 @@
     {
       "vsixId": "DemoSnippets.e2d68c23-8599-40e8-b402-a57060bf3d29",
       "name": "Demo Snippets"
+    },
+    {
+      "vsixId": "CsInlineColorViz.6b864116-c092-4b7a-aad8-34239a7bbe70",
+      "name": "C# Inline Color Vizualizer"
     }
   ]
 }

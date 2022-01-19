@@ -7,7 +7,11 @@
 These are the changes to each version that has been released
 on the official Visual Studio extension gallery.
 
-## 1.24
+## 1.26
+
+- [x] Add C# Inline Color Vizualizer (for VS2022)
+
+## 1.25
 
 - [x] Update DemoSnippets to 2019 & 2022 versions
 - [x] Include MVVMBasicSnippets in 2022 pack

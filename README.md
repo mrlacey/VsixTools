@@ -50,6 +50,7 @@ Includes the following extensions:
 - [Resource Pseudo Localizer](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.ResourcePseudoLocalizer)
 - [MVVMBasic Snippets](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.MvvmBasicSnippets)
 - [Demo Snippets](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.DemoSnippets)
+- [C# Inline Color Vizualizer](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.CSInlineColorViz)
 
 
 If you already have one or more of these extensions installed, this will not re-install them, only add the others.
