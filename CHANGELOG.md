@@ -7,6 +7,10 @@
 These are the changes to each version that has been released
 on the official Visual Studio extension gallery.
 
+## 1.27
+
+- Support VS for arm64
+
 ## 1.26
 
 - [x] Add C# Inline Color Vizualizer (for VS2022)

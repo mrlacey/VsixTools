@@ -11,7 +11,7 @@ namespace VsixTools2022
         public const string Name = "MRLacey Tools for VS2022";
         public const string Description = @"A collection of Visual Studio 2022 extensions created by Matt Lacey.";
         public const string Language = "en-US";
-        public const string Version = "1.26";
+        public const string Version = "1.27";
         public const string Author = "Matt Lacey";
         public const string Tags = "";
     }
