@@ -11,6 +11,24 @@ Download the extension from the Marketplace [for VS2019](https://marketplace.vis
 
 Single installer for all my Visual Studio Extensions.
 
+## Extensions (for Visual Studio 2022)
+
+Includes the following extensions:
+
+- [Warn about TODOs](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.WarnAboutTODOs)
+- [Error Helper](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.ErrorHelper)
+- [WaterMark](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.WaterMark)
+- [Clearly Editable](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.ClearlyEditable)
+- [String Resource Visualizer](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.StringResourceVisualizer)
+- [Collapse Comments](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.CollapseComments)
+- [Const Visualizer](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.ConstVisualizer)
+- [Comment Links](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.CommentLinks)
+- [Don't Copy Always](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.DontCopyAlways)
+- [Resource Pseudo Localizer](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.ResourcePseudoLocalizer)
+- [Demo Snippets](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.DemoSnippets)
+- [C# Inline Color Vizualizer](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.CSInlineColorViz)
+- [Build Time History](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.BuildTimerHistory)
+
 ## Extensions (for Visual Studio 2019)
 
 Includes the following extensions:
@@ -34,29 +52,11 @@ Includes the following extensions:
 - [VSConsole](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.VSConsole)
 
 
-## Extensions (for Visual Studio 2022)
-
-Includes the following extensions:
-
-- [Warn about TODOs](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.WarnAboutTODOs)
-- [Error Helper](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.ErrorHelper)
-- [WaterMark](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.WaterMark)
-- [Clearly Editable](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.ClearlyEditable)
-- [String Resource Visualizer](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.StringResourceVisualizer)
-- [Collapse Comments](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.CollapseComments)
-- [Const Visualizer](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.ConstVisualizer)
-- [Comment Links](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.CommentLinks)
-- [Don't Copy Always](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.DontCopyAlways)
-- [Resource Pseudo Localizer](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.ResourcePseudoLocalizer)
-- [MVVMBasic Snippets](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.MvvmBasicSnippets)
-- [Demo Snippets](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.DemoSnippets)
-- [C# Inline Color Vizualizer](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.CSInlineColorViz)
-
-
 If you already have one or more of these extensions installed, this will not re-install them, only add the others.
 
 ## See Also
 
+- [.NET MAUI Essentials](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.MauiEssentials)
 - [Rapid XAML Toolkit](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.RapidXamlToolkit)
 - [UWP Essentials](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.UwpEssentials)
 - [WinUI Essentials](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.WinUI-Essentials)

@@ -45,16 +45,16 @@
       "name": "Resource Pseudo Localizer"
     },
     {
-      "vsixId": "MVVMBasicSnippets.79e3f0e5-9be3-476f-8f73-86fc92f6e751",
-      "name": "MVVMBasic Snippets"
-    },
-    {
       "vsixId": "DemoSnippets.e2d68c23-8599-40e8-b402-a57060bf3d29",
       "name": "Demo Snippets"
     },
     {
       "vsixId": "CsInlineColorViz.6b864116-c092-4b7a-aad8-34239a7bbe70",
       "name": "C# Inline Color Vizualizer"
+    },
+    {
+      "vsixId": "TrackTimeBuilding.14cbbf05-c896-480f-b5dd-c8c55bf5fd6d",
+      "name": "Build Time History"
     }
   ]
 }
