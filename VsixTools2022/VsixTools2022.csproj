@@ -56,7 +56,7 @@
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
     <Content Include="VsixToolsLogo.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
     <None Include="source.extension.vsixmanifest">

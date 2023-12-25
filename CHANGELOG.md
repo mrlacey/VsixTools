@@ -7,9 +7,14 @@
 These are the changes to each version that has been released
 on the official Visual Studio extension gallery.
 
+## 1.28
+
+- [x] Remove MVVMBasic Snippets (for VS2022)
+- [x] Add Build Time History
+
 ## 1.27
 
-- Support VS for arm64
+- [x] Support VS for arm64
 
 ## 1.26
 
