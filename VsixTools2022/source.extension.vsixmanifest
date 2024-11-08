@@ -5,6 +5,7 @@
         <DisplayName>MRLacey Tools for VS2022</DisplayName>
         <Description xml:space="preserve">A collection of Visual Studio 2022 extensions created by Matt Lacey.</Description>
         <MoreInfo>https://github.com/mrlacey/VsixTools</MoreInfo>
+        <License>LICENSE.txt</License>
         <ReleaseNotes>https://github.com/mrlacey/VsixTools/blob/main/CHANGELOG.md</ReleaseNotes>
         <Icon>VsixToolsLogo.png</Icon>
     </Metadata>
