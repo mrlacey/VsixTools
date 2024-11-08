@@ -20,8 +20,8 @@ jobs:
     env:
       Configuration: Debug
       DeployExtension: False
-      VsixManifestPath: src\ConstVisualizer\source.extension.vsixmanifest
-      VsixManifestSourcePath: src\ConstVisualizer\source.extension.cs
+      VsixManifestPath: src\VsixTools2022\source.extension.vsixmanifest
+      VsixManifestSourcePath: src\VsixTools2022\source.extension.cs
       
     steps:
     - uses: actions/checkout@v4
