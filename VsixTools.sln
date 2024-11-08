@@ -7,7 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VsixTools", "src\VsixTools.
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1343E5DB-6EF6-4DAC-A407-18DB54666FBE}"
 	ProjectSection(SolutionItems) = preProject
-		appveyor.yml = appveyor.yml
 		CHANGELOG.md = CHANGELOG.md
 		README.md = README.md
 		src\signvsix.targets = src\signvsix.targets
