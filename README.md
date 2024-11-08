@@ -1,9 +1,10 @@
 # Matt Lacey's VSIX Tools
 
-[![Build status](https://ci.appveyor.com/api/projects/status/g4i1tq4i3m00l0jh?svg=true)](https://ci.appveyor.com/project/mrlacey/vsixtools)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 ![Works with Visual Studio 2019](https://img.shields.io/static/v1.svg?label=VS&message=2019&color=A853C7)
 ![Works with Visual Studio 2022](https://img.shields.io/static/v1.svg?label=VS&message=2022&color=A853C7)
+
+[![Build](https://github.com/mrlacey/VsixTools/actions/workflows/build.yaml/badge.svg)](https://github.com/mrlacey/VsixTools/actions/workflows/build.yaml)
 
 Download the extension from the Marketplace [for VS2019](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.VsixTools) or [VS 2022](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.VsixTools2022)
 
